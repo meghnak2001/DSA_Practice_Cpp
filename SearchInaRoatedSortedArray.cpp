@@ -38,4 +38,4 @@ public:
         }
         return binarySearch(0,pivot-1,nums,target);
     }
-};
+}; s
